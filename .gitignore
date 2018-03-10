@@ -12,6 +12,8 @@ _autosave-*
 # Netlist files (exported from Eeschema)
 *.net
 
+*.cmp
+
 # Autorouter files (exported from Pcbnew)
 *.dsn
 *.ses
